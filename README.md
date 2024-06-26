@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/AmitojSRS" target="blank"><img src="https://twitter.com/amitojsrs?logo=twitter&style=for-the-badge" alt="https://twitter.com/amitojsrs" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and ReactJs**
+- 🌱 I’m currently learning **JavaScript , ReactJs and Devops**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amitoj20singh](https://linktr.ee/amitoj20singh)
 
